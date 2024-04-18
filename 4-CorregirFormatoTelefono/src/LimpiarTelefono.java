@@ -21,12 +21,9 @@ public class LimpiarTelefono {
         // System.out.println(" ");
         if (phone2.length()!=9) {
             System.out.println("Creo que esto no es un teléfono, indicalo nuevamente. Me sale el número:");
-            
-
         }
         else{
             System.out.println("Tu telefono es:");
-            
         }
         
         System.out.println(phone2);
