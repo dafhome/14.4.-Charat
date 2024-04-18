@@ -1,0 +1,1 @@
+4- Pides un numero de telefono y le quitas, si hay, los espacios, los guiones y los puntos:  456-453-78 quedaria como 45645378

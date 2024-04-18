@@ -1,0 +1,1 @@
+1- El usuario tiene que acertar un número del 1 al 5, generado aleatoriamente. Le vas preguntando hasta que acierte.

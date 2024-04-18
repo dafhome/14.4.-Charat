@@ -1,0 +1,1 @@
+2- Tienes un color preseleccionado, por ejemplo el rojo, y le preguntas al usuario un color a ver si lo acierta (solo le preguntas una vez)
